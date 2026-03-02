@@ -46,7 +46,5 @@ The `simulation_controller.py` script:
 
 ---
 
-## Example Commands
 
-Start instance:
 ![image](Figure_3.png)
