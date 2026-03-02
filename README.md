@@ -45,6 +45,6 @@ The `simulation_controller.py` script:
 - Linux (tested on Ubuntu)
 
 ---
-
+## Example Output
 
 ![image](/images/Figure_3.png)
