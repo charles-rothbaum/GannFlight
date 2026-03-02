@@ -47,4 +47,4 @@ The `simulation_controller.py` script:
 ---
 
 
-![image](Figure_3.png)
+![image](/images/Figure_3.png)
